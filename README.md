@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm interested in how computers works, no much progress so far :)
+
+Technical:
+
+- unix
+- distributed systems
+- containers
+- go
+- monitoring
+
 <!--
 **binjip978/binjip978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
