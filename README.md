@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm interested in how computers works, no much progress so far :)
+I'm interested in how computers works, not much progress so far :)
 
 Technical:
 
